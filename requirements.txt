@@ -1,0 +1,12 @@
+#Install the below requirement packages
+python >=3.10
+torch>=2.5.1
+cuda== 11.8
+ipywidgets == 8.1.5
+iprogress == 0.4
+transformers == 4.48.0
+accelerate >= 0.26.0
+datasets == 3.2.0
+evaluate >= 0.4.3
+scikit-learn == 1.6.1
+nltk == 3.9.1
